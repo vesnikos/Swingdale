@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>swindale_2_random_transparent_mosaic_group1.tif</Title>
+      <Abstract></Abstract>
+      <SRS>epsg:27700</SRS>
+      <BoundingBox minx="350843.31791000004159" miny="512561.31303000007756" maxx="351570.00541000004159" maxy="513173.79303000005893"/>
+      <Origin x="350843.31791000004159" y="512561.31303000007756"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="raster">
+        <TileSet href="0" units-per-pixel="3.52000000000000" order="0"/>
+        <TileSet href="1" units-per-pixel="1.76000000000000" order="1"/>
+        <TileSet href="2" units-per-pixel="0.88000000000000" order="2"/>
+        <TileSet href="3" units-per-pixel="0.44000000000000" order="3"/>
+        <TileSet href="4" units-per-pixel="0.22000000000000" order="4"/>
+        <TileSet href="5" units-per-pixel="0.11000000000000" order="5"/>
+        <TileSet href="6" units-per-pixel="0.05500000000000" order="6"/>
+        <TileSet href="7" units-per-pixel="0.02750000000000" order="7"/>
+      </TileSets>
+    </TileMap>
+    
